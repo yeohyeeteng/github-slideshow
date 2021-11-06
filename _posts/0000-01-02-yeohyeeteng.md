@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Yee Teng's slide!"
 ---
-This is yeohyeeteng's slide... but what is a slide in GitHub? LOL~
+This is my awesome GitHub slide!
 Use the left arrow to go back!
